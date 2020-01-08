@@ -1,1 +1,4 @@
-editing the test fileTest Git Quick Start demo
+Adding new test delta changes to start.txt document
+editing the test file
+
+Test Git Quick Start demo
